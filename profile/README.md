@@ -20,4 +20,4 @@ Use our code and open pull requests freely 🆓
 
 [White Ravens Home Page](https://whiteravens.net)
 
-[Public development progress and Roadmap](https://dev.whiteravens.net/?controller=BoardViewController&action=readonly&token=d9ab6bf9453f039493a22fa541024695ed1b9061274eeadb0bc96e70533f)
+[Public development progress and Roadmap](https://github.com/orgs/whiteravens20/projects/8)
