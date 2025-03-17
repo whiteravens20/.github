@@ -14,10 +14,10 @@ In **White Ravens** we belive in open-source, privacy and secure web, so we play
 
 Language and membership: polish 🇵🇱
 
-Use our code and open pull requests freely 🆓
+Use our code and open pull requests freely 👩‍💻
 
-### Useful links (PL)
+### Useful links
 
-[White Ravens Home Page](https://whiteravens.net)
+[White Ravens Home Page (PL)](https://whiteravens.net)
 
-[Public development progress and Roadmap](https://github.com/orgs/whiteravens20/projects/8)
+[Public development progress and roadmap on GitHub](https://github.com/orgs/whiteravens20/projects/8)
